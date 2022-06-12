@@ -1,7 +1,7 @@
 .calculator {
   text-align: center;
   margin: 0 auto;
-  padding-top: 200px;
+  padding: 200px auto;
   width: 400px;
 }
 
